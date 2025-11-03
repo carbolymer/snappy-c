@@ -1,6 +1,6 @@
 cabal-version:      3.0
 name:               snappy-c
-version:            0.1.1
+version:            0.1.1.0.0.0.2
 synopsis:           Bindings to Google's Snappy: A fast compression library
 description:        [Snappy](https://github.com/google/snappy) is a fast
                     (de)compression library. It is written in C++, but a basic
